@@ -1,4 +1,4 @@
-# Hi there, I'm Arya - aka [Muhamad AryaDira](https://www.instagram.com/aryamuffins?igsh=NHIxMjNlaGNjcnJw) 👋
+# Hi there, I'm Arya - aka [Muhamad Arya Dira](https://www.instagram.com/aryamuffins?igsh=NHIxMjNlaGNjcnJw) 👋
 ## About me:
 - 🔭 I am currently studying for my undergraduate degree at Pamulang University.
 - 🌱 I’m currently learning Front end and Back end 

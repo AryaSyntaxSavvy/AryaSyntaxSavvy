@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [SMKN 2 kota Serang](https://smkn2serang.sch.id) | Mechanical Drawing Techniques | Serang `2022-2025`
+#### [SMKN 2 kota Serang](https://smkn2serang.sch.id) | Mechanical Drawing Techniques | Serang `2022-2025`
    - Scout Pradana
    
 
@@ -37,12 +37,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
